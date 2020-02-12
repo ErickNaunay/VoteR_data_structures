@@ -1,0 +1,10 @@
+record_id,source_id,county_code,parent_source,apps_received,new_registrations,name_changes,address_changes,party_changes,regis_updates,rej_apps,county_desc,description,rej_dupes,nonrej_dupes,apps_received_prior,new_registrations_prior,name_changes_prior,address_changes_prior,party_changes_prior,regis_updates_prior,rej_apps_prior,rej_dupes_prior,nonrej_dupes_prior
+22,00021,27,PA,0,0,0,0,0,0,0,27 - GRANT,Dept. of Human Services Print,0,0,0,0,0,0,0,0,0,0,0
+33,0002,26,PA,0,0,0,0,0,0,0,26 - GRADY,Public Assistance (Unspecified),0,1,0,0,0,0,0,0,0,0,0
+44,0003,26,PA,0,0,0,0,0,0,0,26 - GRADY,Dept. of Human Services Web,0,0,4,3,0,1,0,1,0,0,0
+0,21,27,PA,0,0,0,0,0,0,0,27 - GRANT,Health Care Authority Print,0,0,0,0,0,0,0,0,0,0,0
+55,0003,26,PA,0,0,0,0,0,0,0,26 - GRADY,Dept. of Human Services Web,0,0,4,3,0,1,0,1,0,0,0
+99,0003,26,PA,0,0,0,0,0,0,0,26 - GRADY,Dept. of Human Services Web,0,0,4,3,0,1,0,1,0,0,0
+77,0003,26,PA,0,0,0,0,0,0,0,26 - GRADY,Dept. of Human Services Web,0,0,4,3,0,1,0,1,0,0,0
+66,0003,26,PA,0,0,0,0,0,0,0,26 - GRADY,Dept. of Human Services Web,0,0,4,3,0,1,0,1,0,0,0
+88,0003,26,PA,0,0,0,0,0,0,0,26 - GRADY,Dept. of Human Services Web,0,0,4,3,0,1,0,1,0,0,0
